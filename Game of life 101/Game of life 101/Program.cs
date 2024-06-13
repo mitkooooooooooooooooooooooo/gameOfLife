@@ -1,9 +1,9 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks.Dataflow;
-using GameOfLife;
+using Game_Of_Life_101;
 
-namespace GameOfLife
+namespace Game_Of_Life_101
 {
     class GameOfLife
     {
