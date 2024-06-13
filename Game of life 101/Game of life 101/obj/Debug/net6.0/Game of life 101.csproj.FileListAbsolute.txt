@@ -1,0 +1,15 @@
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\bin\Debug\net6.0\Game of life 101.exe
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\bin\Debug\net6.0\Game of life 101.deps.json
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\bin\Debug\net6.0\Game of life 101.runtimeconfig.json
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\bin\Debug\net6.0\Game of life 101.dll
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\bin\Debug\net6.0\Game of life 101.pdb
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.csproj.AssemblyReference.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.AssemblyInfoInputs.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.AssemblyInfo.cs
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.csproj.CoreCompileInputs.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.dll
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\refint\Game of life 101.dll
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.pdb
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\Game of life 101.genruntimeconfig.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\gameOfLife\Game of life 101\Game of life 101\obj\Debug\net6.0\ref\Game of life 101.dll
